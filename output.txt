@@ -1,0 +1,9 @@
+answer.txt
+input.txt
+myscript.sh
+mysh
+mysh.c
+output
+output.c
+output.txt
+mysh> mysh> Exiting my shell.
